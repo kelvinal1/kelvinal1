@@ -1,113 +1,70 @@
-# 🚀 Kevin Aguilar — Full Stack Developer
+<h1 align="center">Hola, soy Kevin Aguilar 👨‍💻</h1>
+<p align="center">
+  Full Stack Developer | Backend & Cloud
+</p>
 
-Desarrollador full stack enfocado en la construcción de soluciones reales, integración de sistemas y despliegues en la nube. Trabajo con una visión integral del software, entendiendo cada capa del sistema para garantizar rendimiento, estabilidad y escalabilidad.
-
----
-
-## 🧠 Sobre mí
-
-Soy un desarrollador con enfoque práctico, orientado a resolver problemas en entornos productivos. No me limito a escribir código: analizo, diseño e implemento soluciones completas que funcionan en escenarios reales.
-
-Tengo experiencia trabajando con sistemas en producción, lo que me permite:
-
-- Identificar problemas reales rápidamente  
-- Optimizar procesos existentes  
-- Garantizar estabilidad bajo carga  
-- Construir soluciones mantenibles  
+<p align="center">
+  <a href="https://github.com/kelvinal1">
+    <img src="https://img.shields.io/github/followers/kelvinal1?label=Followers&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-aguilar-9166032a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Aguilar-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## ⚙️ Stack tecnológico
+## 🚀 Sobre mí
 
-### 🖥️ Frontend
-- Angular  
-- TypeScript  
-- HTML / CSS  
-- Interfaces dinámicas y responsivas  
-
-### 🔧 Backend
-- .NET / C#  
-- APIs REST  
-- Lógica de negocio estructurada  
-
-### 🗄️ Base de datos
-- PostgreSQL  
-- Consultas avanzadas  
-- Optimización de rendimiento  
-- Migraciones, dumps y restores  
-
-### ☁️ Infraestructura
-- Azure  
-- Web Apps  
-- Container Apps  
-- Máquinas virtuales  
-- Redes privadas  
-
-### 🔄 DevOps
-- Docker  
-- GitHub Actions  
-- CI/CD  
-
-### 🔌 Integraciones
-- APIs externas  
-- FTP  
-- Procesos de sincronización de datos  
+Desarrollador full stack enfocado en soluciones reales, integración de sistemas y despliegues en la nube. Trabajo con una visión completa del sistema, desde la interfaz hasta la infraestructura.
 
 ---
 
-## 🚀 Lo que hago
+## ⚙️ Tecnologías que uso
 
-- Desarrollo de aplicaciones web completas (end-to-end)  
-- Construcción de APIs seguras con autenticación JWT  
-- Integración de sistemas  
-- Automatización de procesos  
-- Despliegue en la nube  
-- Optimización de rendimiento  
-- Resolución de problemas en producción  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,dotnet,postgres,docker,azure,github" />
+
+</p>
 
 ---
 
-## 📈 Enfoque actual
+## 📊 Estadísticas de GitHub
 
-Actualmente estoy enfocado en fortalecer:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvinal1&show_icons=true&theme=tokyonight" />
+</p>
 
-- Arquitectura de sistemas  
-- Escalabilidad  
-- Optimización de rendimiento  
-- Diseño de soluciones robustas  
-
-Busco evolucionar hacia un perfil más estratégico, enfocado en la construcción de productos completos y soluciones listas para producción.
-
----
-
-## 🧩 Filosofía de trabajo
-
-- Construir soluciones reales, no solo código  
-- Entender el problema antes de implementar  
-- Priorizar rendimiento y estabilidad  
-- Automatizar siempre que sea posible  
-- Mantener código limpio y mantenible  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinal1&theme=tokyonight" />
+</p>
 
 ---
 
-## 📂 Proyectos
+## 📈 Lenguajes más usados
 
-Este repositorio forma parte de mi trabajo como desarrollador, donde aplico buenas prácticas de desarrollo, integración y despliegue.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinal1&layout=compact&theme=tokyonight" />
+</p>
 
-> Puedes explorar mis repositorios para ver implementaciones reales de APIs, integraciones y despliegues en la nube.
+---
+
+## 🧠 En qué me enfoco
+
+- Desarrollo full stack (end-to-end)
+- APIs seguras con JWT
+- Integración de sistemas
+- Automatización de procesos
+- Despliegue en Azure
+- Optimización de rendimiento
 
 ---
 
 ## 📬 Contacto
 
-Si tienes un proyecto o necesitas una solución tecnológica:
-
-- GitHub: https://github.com/kelvinal1  
-- Email: kevinv.aguilarl@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/kevin-aguilar-9166032a9  
-
----
-
-## ⭐ Nota
-
-Este repositorio refleja mi enfoque como desarrollador: soluciones prácticas, bien estructuradas y listas para producción.
+<p align="center">
+  <a href="mailto:kevinv.aguilarl@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/kevin-aguilar-9166032a9">💼 LinkedIn</a> •
+  <a href="https://github.com/kelvinal1">🐙 GitHub</a>
+</p>
