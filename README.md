@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Kevin Aguilar 👨‍💻</h1>
 <p align="center">
-  Full Stack Developer | Backend & Cloud
+  Technical Lead | Full Stack Engineering | Azure Cloud, .NET, Angular, PostgreSQL | Docker, System Architecture
 </p>
 
 <p align="center">
